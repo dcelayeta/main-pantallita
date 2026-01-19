@@ -13,6 +13,7 @@ Go to School,1,01234,7,50,8,15,go_to_school.bmp,1,0
 Quiet Time SAT,1,5,12,30,13,30,quiet_time.bmp,1,0
 Gimnastics,1,6,11,40,12,10,gimnastics.bmp,1,0
 Quiet Time SUN,1,6,14,0,15,0,quiet_time.bmp,1,0
+Medicine PM,1,0123456,18,0,18,30,medicine.bmp,0,1
 Eat Dinner,1,0123456,18,30,19,0,dinner.bmp,1,0
 Bath Time,1,0123456,19,0,19,30,bath_time.bmp,1,0
 Pajamas On,1,0123456,19,30,19,40,get_dressed_night.bmp,1,0
