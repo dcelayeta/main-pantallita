@@ -1,0 +1,9 @@
+# Format: YYYY-MM-DD,TopLine,BottomLine,Image,Color[,StartHour,EndHour]
+# TopLine = displays on TOP of screen
+# BottomLine = displays on BOTTOM (usually the name)
+# Times are optional (24-hour format, 0-23). If omitted, event shows all day.
+
+2026-03-20,Hello,Spring,flower_tree.bmp,PINK
+2026-06-21,Hello,Summer,flamingo.bmp,MINT
+2026-09-22,Fall,Begins,leaf.bmp,ORANGE
+2026-11-26,Happy,Thanksgiving,turkey.bmp,ORANGE

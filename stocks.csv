@@ -1,0 +1,12 @@
+# Stock Tickers
+# Format: symbol,name,type,display_name,highlighted
+# Regular stocks displayed in cycles of 3, highlighted stocks shown individually
+# Display sequence follows CSV order: 3-stock group → highlighted → 3-stock group → ...
+
+# Display 1: Individual (highlighted)
+AAPL,Apple Inc.,stock,,0
+
+# Display 2: Cycle 1 (3 stocks)
+SPY,SPDR S&P 500 ETF Trust,stock,S&P,0
+GOOG,Alphabet Inc. Class C,stock,,0
+NVDA,NVIDIA Corporation,stock,,0
