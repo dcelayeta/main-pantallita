@@ -1,10 +1,10 @@
 # Display toggles (true/false)
 display_weather,true
 display_forecast,true
-display_schedules,false
+display_schedules,true
 display_events,true
-display_stocks,true
-display_transit,true
+display_stocks,false
+display_transit,false
 
 # Temperature unit (F or C)
 temperature_unit,C
